@@ -1,0 +1,13 @@
+@use "../foundation/mixin" as m;
+
+    /* footer */
+footer{
+    width: 100%;
+    height: 46px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #BBBBBB;
+    margin-top: 32px;
+    padding: 16px;
+}
